@@ -1,2 +1,2 @@
 # rpi-usb-gadget
-Script to setup USB OTG configuration on Raspbian
+Script to enable USB OTG configuration on Raspbian
